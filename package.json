@@ -1,6 +1,7 @@
 {
   "version": "0.0.0",
   "devDependencies": {
+    "@types/jquery": "^3.5.14",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
     "concurrently": "^7.2.0",
@@ -22,6 +23,10 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.8.1",
+    "@mui/system": "^5.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   }
